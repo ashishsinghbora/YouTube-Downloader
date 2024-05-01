@@ -4,7 +4,7 @@ This is a simple Python program that allows you to download video from YouTube v
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3
 - pytube library
 
 You can install the `pytube` library using pip:
